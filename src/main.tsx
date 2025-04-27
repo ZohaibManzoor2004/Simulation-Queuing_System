@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/Styled_Hmza/">
+    <BrowserRouter basename="/Simulation-Queuing_System/">
       <ThemeProvider theme={lightTheme}>
         <CssBaseline enableColorScheme />
         <App />
